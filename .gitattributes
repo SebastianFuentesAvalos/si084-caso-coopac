@@ -1,0 +1,2 @@
+# Preservar los bytes de las evidencias selladas con SHA-256.
+evidencias/*.txt -text
