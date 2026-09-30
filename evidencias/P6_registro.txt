@@ -1,0 +1,11 @@
+ log_connections 
+-----------------
+ off
+(1 row)
+
+ log_statement 
+---------------
+ none
+(1 row)
+
+docker-compose.yml:11:    command: postgres -c log_connections=off -c log_statement=none

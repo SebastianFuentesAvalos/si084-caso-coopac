@@ -1,0 +1,2 @@
+IMAGE         ID             DISK USAGE   CONTENT SIZE   EXTRA
+postgres:16   1a6ab3f5345e        642MB          166MB   U    

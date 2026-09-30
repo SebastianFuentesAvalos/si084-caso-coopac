@@ -1,0 +1,10 @@
+ cuentas_activas_cesados | personas_distintas | cese_mas_antiguo 
+-------------------------+--------------------+------------------
+                      16 |                 10 | 2015-12-18
+(1 row)
+
+ cuentas_sin_responsable | cuentas_admin 
+-------------------------+---------------
+                      22 |             4
+(1 row)
+

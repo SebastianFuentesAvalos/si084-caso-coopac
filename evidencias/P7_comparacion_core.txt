@@ -1,0 +1,18 @@
+ dias_desde_ultimo_respaldo 
+----------------------------
+                         47
+(1 row)
+
+            List of relations
+ Schema |    Name     | Type  |  Owner   
+--------+-------------+-------+----------
+ public | desembolsos | table | postgres
+ public | empleados   | table | postgres
+ public | usuarios    | table | postgres
+(3 rows)
+
+ desembolsos_core | monto_total_core 
+------------------+------------------
+             4812 |      45124350.88
+(1 row)
+
